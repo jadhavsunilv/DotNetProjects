@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "8DhRyKWgbMghkbAhThm8NpjJEWAQw2lbEun8K3Ph/0ptU+I7po4FVT7Cj84N7aAqqBf1DVYBiThC+O1ph4KuQQ==",
+  "dgSpecHash": "1sWty6qtxTN8pmpBCmgoiS3fbHbo+Xm09OlD6bFy3ioXpCRNinjhxLIL8Yy4djAXjAIvUbqVcEwPa8798nDM8w==",
   "success": true,
   "projectFilePath": "F:\\workSpace\\DotNetProjects\\aspDotNetMicroservices\\src\\Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SUNIL\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\SUNIL\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\SUNIL\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\SUNIL\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\SUNIL\\.nuget\\packages\\mongodb.bson\\2.14.1\\mongodb.bson.2.14.1.nupkg.sha512",
     "C:\\Users\\SUNIL\\.nuget\\packages\\mongodb.driver\\2.14.1\\mongodb.driver.2.14.1.nupkg.sha512",
     "C:\\Users\\SUNIL\\.nuget\\packages\\mongodb.driver.core\\2.14.1\\mongodb.driver.core.2.14.1.nupkg.sha512",
