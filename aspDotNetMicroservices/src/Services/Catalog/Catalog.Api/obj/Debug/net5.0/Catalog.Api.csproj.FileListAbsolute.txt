@@ -42,3 +42,4 @@ F:\workSpace\DotNetProjects\aspDotNetMicroservices\src\Services\Catalog\Catalog.
 F:\workSpace\DotNetProjects\aspDotNetMicroservices\src\Services\Catalog\Catalog.Api\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
 F:\workSpace\DotNetProjects\aspDotNetMicroservices\src\Services\Catalog\Catalog.Api\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
 F:\workSpace\DotNetProjects\aspDotNetMicroservices\src\Services\Catalog\Catalog.Api\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+F:\workSpace\DotNetProjects\aspDotNetMicroservices\src\Services\Catalog\Catalog.Api\obj\Debug\net5.0\Catalog.Api.csproj.CopyComplete

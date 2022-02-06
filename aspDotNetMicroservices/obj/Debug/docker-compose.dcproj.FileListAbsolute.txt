@@ -18,3 +18,4 @@ F:\workSpace\DotNetProjects\aspDotNetMicroservices\bin\Debug\SharpCompress.dll
 F:\workSpace\DotNetProjects\aspDotNetMicroservices\bin\Debug\Catalog.Api.pdb
 F:\workSpace\DotNetProjects\aspDotNetMicroservices\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
 F:\workSpace\DotNetProjects\aspDotNetMicroservices\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+F:\workSpace\DotNetProjects\aspDotNetMicroservices\obj\Debug\docker-compose.dcproj.CopyComplete

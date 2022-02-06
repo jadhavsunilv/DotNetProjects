@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1sWty6qtxTN8pmpBCmgoiS3fbHbo+Xm09OlD6bFy3ioXpCRNinjhxLIL8Yy4djAXjAIvUbqVcEwPa8798nDM8w==",
+  "dgSpecHash": "siiALGDxHd1HriGrwWNibLEr2kW9B9AdXq9L6ekyHLLk3a2e6zMbRkPeyyT1KjvZbWKdnBRCnDnBhbvd6XNihg==",
   "success": true,
   "projectFilePath": "F:\\workSpace\\DotNetProjects\\aspDotNetMicroservices\\src\\Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
   "expectedPackageFiles": [
