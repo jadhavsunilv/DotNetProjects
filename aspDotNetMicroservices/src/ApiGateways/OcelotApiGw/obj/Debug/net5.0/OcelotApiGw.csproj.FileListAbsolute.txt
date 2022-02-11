@@ -31,3 +31,6 @@ F:\workSpace\DotNetProjects\aspDotNetMicroservices\src\ApiGateways\OcelotApiGw\o
 F:\workSpace\DotNetProjects\aspDotNetMicroservices\src\ApiGateways\OcelotApiGw\obj\Debug\net5.0\ref\OcelotApiGw.dll
 F:\workSpace\DotNetProjects\aspDotNetMicroservices\src\ApiGateways\OcelotApiGw\obj\Debug\net5.0\OcelotApiGw.pdb
 F:\workSpace\DotNetProjects\aspDotNetMicroservices\src\ApiGateways\OcelotApiGw\obj\Debug\net5.0\OcelotApiGw.genruntimeconfig.cache
+F:\workSpace\DotNetProjects\aspDotNetMicroservices\src\ApiGateways\OcelotApiGw\bin\Debug\net5.0\ocelot.Development.json
+F:\workSpace\DotNetProjects\aspDotNetMicroservices\src\ApiGateways\OcelotApiGw\bin\Debug\net5.0\ocelot.json
+F:\workSpace\DotNetProjects\aspDotNetMicroservices\src\ApiGateways\OcelotApiGw\bin\Debug\net5.0\ocelot.local.json
