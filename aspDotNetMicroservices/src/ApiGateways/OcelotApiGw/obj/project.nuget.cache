@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Unq7bfffcCTnpeIo5s6i1Fhc+RmKsXS6Ak9Yxsejan0YDtiGFInMnLraG33C6ypqajSPfok7TyX07QaeOofxhA==",
+  "dgSpecHash": "fCm+l1PRJQ3x7wD+ntzG4mLR3XRXPWj0yTHnOeu/9YWcwDf1zrMnX0zGmQNO65SxJ37xaHweEg2WyK1U2SM+OQ==",
   "success": true,
   "projectFilePath": "F:\\workSpace\\DotNetProjects\\aspDotNetMicroservices\\src\\ApiGateways\\OcelotApiGw\\OcelotApiGw.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\SUNIL\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\SUNIL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\SUNIL\\.nuget\\packages\\microsoft.extensions.diagnosticadapter\\3.1.10\\microsoft.extensions.diagnosticadapter.3.1.10.nupkg.sha512",
+    "C:\\Users\\SUNIL\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\SUNIL\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\SUNIL\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\SUNIL\\.nuget\\packages\\ocelot\\17.0.0\\ocelot.17.0.0.nupkg.sha512",

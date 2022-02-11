@@ -3,7 +3,7 @@ services:
     build:
       context: F:\workSpace\DotNetProjects\aspDotNetMicroservices
       dockerfile: src/Services/Catalog/Catalog.Api/Dockerfile
-    container_name: catlog.api
+    container_name: catalog.api
     depends_on:
       catalogdb:
         condition: service_started
@@ -23,6 +23,20 @@ services:
     restart: always
     volumes:
     - mongo_data:/data/db:rw
+  ocelotapigw:
+    build:
+      context: F:\workSpace\DotNetProjects\aspDotNetMicroservices
+      dockerfile: src/ApiGateways/OcelotApiGw/Dockerfile
+    container_name: ocelotapigw
+    depends_on:
+      catalogdb:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: ocelotapigw
+    ports:
+    - published: 8010
+      target: 80
 version: '3.4'
 volumes:
   mongo_data: {}
